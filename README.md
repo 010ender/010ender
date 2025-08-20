@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello!
 
-<!--
-**010ender/010ender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Stack Overflow](https://stackoverflow.com/users/27406044/010ender)
 
-Here are some ideas to get you started:
+I'm 010ender, a passionate web developer currently pursuing my studies. I specialize in JavaScript, HTML, and CSS but I'm open to new techologies and other languages. I'm also a hands-on DIY enthusiast and a dedicated computer hobbyist. Occasionally I design custom resource packs and shaders for personal use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At the moment, I'm not engaged in a full-time project, but I'm actively seeking opportunities to grow and contribute.
+
+### Skills (Languages, IDEs and Editors)
+[![Skills](https://skillicons.dev/icons?i=js,html,css,bash,robloxstudio,godo,vscodet&theme=dark)](https://skillicons.dev)
+
+### Statistics
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=010ender&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+
+
